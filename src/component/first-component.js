@@ -1,0 +1,1 @@
+export function firstComponent() { console.log('I am First component'); }
